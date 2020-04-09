@@ -35,7 +35,3 @@ function tune(arr) {
     }
     return new_arr;
 }
-
-console.log(tune([0, 246.94, 0, 0, 0, 78]));
-console.log(tune([329.63, 246.94, 195, 146, 111, 82.41]));
-console.log(tune([329.63, 246.94, 196.00, 146.83, 110.00, 82.41]));
